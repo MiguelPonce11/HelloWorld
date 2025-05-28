@@ -1,0 +1,30 @@
+[
+    {
+      "id": "Serie A",
+      "data": [
+        { "x": "Semana 1", "y": 1 },
+        { "x": "Semana 2", "y": 3 },
+        { "x": "Semana 3", "y": 2 },
+        { "x": "Semana 4", "y": 4 }
+      ]
+    },
+    {
+      "id": "Serie B",
+      "data": [
+        { "x": "Semana 1", "y": 2 },
+        { "x": "Semana 2", "y": 1 },
+        { "x": "Semana 3", "y": 4 },
+        { "x": "Semana 4", "y": 3 }
+      ]
+    },
+    {
+      "id": "Serie C",
+      "data": [
+        { "x": "Semana 1", "y": 3 },
+        { "x": "Semana 2", "y": 4 },
+        { "x": "Semana 3", "y": 1 },
+        { "x": "Semana 4", "y": 2 }
+      ]
+    }
+  ]
+  
